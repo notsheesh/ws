@@ -34,3 +34,6 @@ highlight CursorColumn ctermbg=236 guibg=#111111
 
 " Save no swap files
 set noswapfile
+
+" Title 
+set statusline=%t
